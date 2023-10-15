@@ -1,4 +1,5 @@
 # pembayaranspp
+Aplikasi ini merupakan sistem pembayaran spp yang masih sangat sederhana dimana terdapat 4 data yang terhubung dengan api supabase diantaranya ada siswa, kelas, tagihan dan pembayaran dan semua data tersebut saling berelasi satu sama lain
 
 ## Build Setup
 
